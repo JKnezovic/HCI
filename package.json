@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "gatsby-starter-hello-world",
   "description": "Gatsby hello world starter",
@@ -22,3 +23,29 @@
     "rimraf": "^2.6.2"
   }
 }
+=======
+{
+  "name": "gatsby-starter-hello-world",
+  "description": "Gatsby hello world starter",
+  "license": "MIT",
+  "scripts": {
+    "develop": "./node_modules/.bin/rimraf .cache/* ./public/* && gatsby develop",
+    "start": "npm run develop",
+    "build": "./node_modules/.bin/rimraf .cache/* ./public/* && gatsby build --prefix-paths",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "gatsby": "^2.0.34",
+    "gatsby-image": "^2.0.23",
+    "gatsby-plugin-sharp": "^2.0.14",
+    "gatsby-remark-images": "^2.0.5",
+    "gatsby-source-filesystem": "^2.0.6",
+    "gatsby-transformer-remark": "^2.1.11",
+    "gatsby-transformer-sharp": "^2.1.9",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "rimraf": "^2.6.2"
+  }
+}
+>>>>>>> 6cfc6e99cacf0e94a2a7a07f7643aa5d1229896a
