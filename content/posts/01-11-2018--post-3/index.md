@@ -10,7 +10,6 @@ slug: post-three
 
 <figure class="figure">
     <img src="./images/phlead.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
 </figure>
 
 ## PH lead 2018.!

@@ -1,0 +1,41 @@
+.Button {
+  --height: var(--header-height, 48px);
+
+  height: var(--height);
+  position: fixed;
+  right: 0px;
+  top: calc(var(--height) / 2);
+  transform: translateY(-50%);
+
+  cursor: pointer;
+  background: #252525;
+  border: 1px solid #252525;
+  display: none;
+  color:white;
+  padding: 0 10px;
+  overflow-y: hidden;
+  transition: all 0.25s linear;
+  z-index: var(--z-index-menu, 1000);
+}
+
+.Content {
+  font-size: 20px;
+  font-weight: 400;
+  transition: all 0.25s linear;
+
+}
+
+.Content.open {
+  color: white;
+}
+
+.Button.open {
+  background: dodgerblue;
+  border: 1px solid dodgerblue;
+}
+
+@media only screen and (max-width: 1000px) {
+  .Button {
+    display: block;
+  }
+}

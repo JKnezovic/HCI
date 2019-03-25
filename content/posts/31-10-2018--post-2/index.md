@@ -10,7 +10,6 @@ slug: post-two
 
 <figure class="figure">
     <img src="./images/greda.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
 </figure>
 
 ## Odletia Njemac!

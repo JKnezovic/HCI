@@ -1,0 +1,45 @@
+.Menu {
+  padding: 1rem;
+  position: fixed;
+  right: 0px;
+  top: var(--header-height, 40px);
+  height: 100%;
+  width: 200px;
+  background: #252525;
+  border-left: 5px solid dodgerblue;
+
+  transition: transform 0.5s ease;
+  z-index: var(--z-index-menu, 1000);
+
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+}
+
+.Menu.open {
+  transform: translateX(0%);
+}
+
+.Menu.closed {
+  transform: translateX(100%);
+}
+
+.NavLink {
+  border-left: 3px solid transparent;
+  border-top: none;
+  border-bottom: none !important;
+  margin-bottom: 2px;
+}
+
+.NavLink_active,
+.NavLink:hover {
+  color: dodgerblue;
+  border-left: 3px solid dodgerblue;
+}
+
+/* You can use a CSS preprocessor to store breakpoint values in variables. */
+@media only screen and (min-width: 1000px) {
+  .Menu {
+    display: none;
+  }
+}

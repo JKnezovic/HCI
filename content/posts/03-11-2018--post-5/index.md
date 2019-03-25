@@ -11,7 +11,6 @@ slug: post-five
 
 <figure class="figure">
     <img src="./images/ph.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
 </figure>
 
 ## Report - PH lead 2018.!
@@ -25,31 +24,31 @@ PC i naš klub su prošlog vikenda po drugi put ugostili Prvenstvo Hrvatske u le
 
 SUBOTA je bila rezervirana za mlađe uzrasne kategorije koje su nas i ove godine oduševile energijom i potencijalom.  Naši postavljači su posebno truda uložili u postavljanje i testiranje težine smjerova kako bi tako kvalitetni mladi penjači dobili linije u kojima će moći pokazati koliko doista mogu i koji će ih motivirati za daljnji trening. Virujemo da smo u tome većinom  i uspili. Ovom prilikom čestitke svim natjecateljima koji su nastupili bez obzira na plasman, a posebno novim prvacima HR koje ćemo nabrojati kroz kategorije:
 
-MLAĐI CICIBANI:
+####MLAĐI CICIBANI:
 
 Lara Uljević (Marulianus) / Niko Uhač (OnSight)
 
-CICIBANI:
+####CICIBANI:
 
 Ljubica Kuvačić (Mosor) / Darian Duka (Marulianus)
 
-MLAĐI KADETI:
+####MLAĐI KADETI:
 
 Lena Opačić (Fothia) / Lovre Čulić (Mosor)
 
-KADETI:
+####KADETI:
 
 Eni Malenica (Marulianus) / Jan Mišić (Fothia)
 
-STARIJI KADETI:
+####STARIJI KADETI:
 
 Lara Kmoch (Fothia) / Filip Kurtović (OnSight)
 
-JUNIORI:
+####JUNIORI:
 
 Vana Piccini (Marulianus) / Mikula Bašić (Marulianus)
 
-STARIJI JUNIORI:
+####STARIJI JUNIORI:
 
 Kasija Rnjak (Mosor)
 

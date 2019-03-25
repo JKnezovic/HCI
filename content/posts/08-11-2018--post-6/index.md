@@ -1,5 +1,5 @@
 ---
-date: "2018-11-08"
+date: "2017-11-08"
 title: "Jesenji momenti!"
 srcl: './images/img_5089.jpg'
 slug: post-six
@@ -11,7 +11,6 @@ slug: post-six
 
 <figure class="figure">
     <img src="./images/img_5089.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
 </figure>
 
 ## Jesenji momenti!

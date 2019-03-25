@@ -11,7 +11,6 @@ slug: post-one
 
 <figure class="figure">
     <img src="./images/marko.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
 </figure>
 
 ## Ponovljen Spomin!

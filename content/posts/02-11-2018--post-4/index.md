@@ -7,11 +7,8 @@ slug: post-four
 
 <!-- markdownlint-disable MD033 -->
 
-# [Lorem Ipsum](https://www.lipsum.com/)
-
 <figure class="figure">
     <img src="./images/fest.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
 </figure>
 
 ## Oštarije climbing fest!
